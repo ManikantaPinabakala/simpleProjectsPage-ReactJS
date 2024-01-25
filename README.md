@@ -1,4 +1,5 @@
-# On - Demand Session
+# Simple Projects Page
 
-- Identifying the State
-- Updating the styles based on State
+- We will know about these two crucial things from the above project:
+  - Identifying the State
+  - Updating the **styles** based on State
